@@ -1,14 +1,11 @@
 
-# ACT :: Adaptive Content on stereoids!
+# ACT :: Adaptive content packaging on stereoids!
 
 ***
 
-[![Build Status](https://secure.travis-ci.org/angular-ui/bootstrap.png)](http://travis-ci.org/angular-ui/bootstrap)
-[![devDependency Status](https://david-dm.org/angular-ui/bootstrap/dev-status.png?branch=master)](https://david-dm.org/angular-ui/bootstrap#info=devDependencies)
-
 ## Demo
 
-http://localhost/act/dist
+(No public demo yet. compile your local copy)
 
 ## Installation
 
@@ -17,7 +14,7 @@ Clone this repo then in the root directory run
 
 `$ npm install` then compile the distribution package `$ grunt`
 
-### Development
+## Development
 #### Prepare your environment
 * Install [Node.js](http://nodejs.org/) and NPM (should come with)
 * Install global dev dependencies: `npm install -g grunt-cli karma`
